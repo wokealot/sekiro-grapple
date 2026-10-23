@@ -1,3 +1,4 @@
+-- Connected Discord-GitHub
 -- GrappleAssets prefabs (hook, emitters) and the Cast anim are from Rudimentality's MIT grapple (2019), anim reuploaded on my account. code is mine
 
 --|| Services ||--
